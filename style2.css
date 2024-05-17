@@ -1,0 +1,49 @@
+.fir-1{
+    background-image: radial-gradient(54.97% 272.54% at 27.36% -134.72%,rgba(108,148,255,.92) 0,rgba(0,0,0,.92) 100%);
+    color: white;
+    margin: -10px;
+    text-align: center;
+    padding:17px;
+    position:fixed;
+    width:1350px;
+    
+}
+header p{
+    display:inline;
+    padding:12px;
+}
+
+header b{
+    font-size: 20px;
+
+}
+nav{
+    padding: 20px;
+    display: flex;
+    background-color: transparent;
+}
+nav div ul{
+    display: flex;
+    justify-content: space-between;
+    width:500px;
+    margin-left: 240px;
+    margin-top:20px;
+}
+nav div{
+    display:inline;
+
+}
+.span1{
+    margin-left:170px;
+    margin-top: 20px;
+    color:white;    
+}
+
+.margin{
+    width:25px;
+    margin-left: 35px;
+}
+.tds-icon{
+    margin-top: 20px;
+    margin-left: 25px;
+}
